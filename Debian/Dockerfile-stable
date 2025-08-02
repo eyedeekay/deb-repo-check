@@ -1,0 +1,2 @@
+# This is a Dockerfile which always uses Debian stable as a base,
+# per the official image.
